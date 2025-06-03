@@ -8,3 +8,5 @@ spacy
 jupyter
 ta-lib
 pynance
+vaderSentiment 
+statsmodels
